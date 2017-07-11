@@ -1,0 +1,19 @@
+{
+  "name": "crypto-bird",
+  "version": "1.0.0",
+  "description": "A crypto app",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "next": "^3.0.1-beta.13",
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1"
+  }
+}
